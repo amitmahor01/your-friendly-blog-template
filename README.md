@@ -234,11 +234,6 @@ If you have any questions or need help:
 - 🐛 Issues: [GitHub Issues](https://github.com/amitmahor01/your-friendly-blog-template/issues)
 - 📖 Documentation: [Project Wiki](https://github.com/amitmahor01/your-friendly-blog-template/wiki)
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/your-friendly-blog-template&type=Date)](https://star-history.com/#yourusername/your-friendly-blog-template&Date)
-
----
 
 **Made with ❤️ by [Amit Mahor]**
 
