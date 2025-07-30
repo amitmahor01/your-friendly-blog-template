@@ -219,10 +219,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Material-UI](https://mui.com/) for the beautiful component library
@@ -234,9 +230,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 Email: hello@your-friendly-blog.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/your-friendly-blog-template/issues)
-- 📖 Documentation: [Project Wiki](https://github.com/yourusername/your-friendly-blog-template/wiki)
+- 📧 Email: amit.mahor121@outlook.com
+- 🐛 Issues: [GitHub Issues](https://github.com/amitmahor01/your-friendly-blog-template/issues)
+- 📖 Documentation: [Project Wiki](https://github.com/amitmahor01/your-friendly-blog-template/wiki)
 
 ## ⭐ Star History
 
@@ -244,6 +240,6 @@ If you have any questions or need help:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Amit Mahor]**
 
 If this project helps you, please give it a ⭐️!
