@@ -18,14 +18,14 @@ export default function Header() {
     <AppBar position="static" color="default" elevation={1}>
       <Toolbar>
         <Box sx={{ flexGrow: 1 }}>
-          <Link href="/" passHref legacyBehavior>
+          <Link href="/" style={{ textDecoration: 'none' }}>
             <Button color="inherit" sx={{ fontWeight: 'bold', fontSize: '1.2rem' }}>
               Blog
             </Button>
           </Link>
         </Box>
         {navLinks.map(({ label, href }) => (
-          <Link key={href} href={href} passHref legacyBehavior>
+          <Link key={href} href={href} style={{ textDecoration: 'none' }}>
             <Button color="inherit" sx={{ mx: 1 }}>
               {label}
             </Button>

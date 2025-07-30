@@ -1,4 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import HeroSection from "@/components/HeroSection";
+import FeaturedPosts from "@/components/FeaturedPosts";
+import NewsletterSignup from "@/components/NewsletterSignup";
+import StatsSection from "@/components/StatsSection";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -13,11 +17,12 @@ const geistMono = Geist_Mono({
 export default function Home() {
   return (
     <div
-      className={`${geistSans.className} ${geistMono.className} font-sans grid grid-rows-1 min-h-screen`}
+      className={`${geistSans.className} ${geistMono.className} font-sans`}
     >
-      <div className="relative flex-1 flex flex-col items-center justify-center p-8 pb-20 gap-16 sm:p-20">
-        This is your landing page!
-      </div>
+      <HeroSection />
+      <FeaturedPosts />
+      <NewsletterSignup />
+      <StatsSection />
     </div>
   );
 }
