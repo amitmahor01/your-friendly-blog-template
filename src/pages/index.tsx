@@ -3,6 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import FeaturedPosts from "@/components/FeaturedPosts";
 import NewsletterSignup from "@/components/NewsletterSignup";
 import StatsSection from "@/components/StatsSection";
+import AboutSection from "@/components/AboutSection";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -23,6 +24,7 @@ export default function Home() {
       <FeaturedPosts />
       <NewsletterSignup />
       <StatsSection />
+      <AboutSection />
     </div>
   );
 }
