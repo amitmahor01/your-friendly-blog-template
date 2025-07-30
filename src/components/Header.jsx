@@ -3,7 +3,6 @@ import Toolbar from '@mui/material/Toolbar';
 import Button from '@mui/material/Button';
 import Box from '@mui/material/Box';
 import Link from 'next/link';
-import ThemeToggle from '@/components/ThemeToggle';
 
 const navLinks = [
   { label: 'Home', href: '/' },
@@ -31,9 +30,6 @@ export default function Header() {
             </Button>
           </Link>
         ))}
-        <Box sx={{ ml: 2 }}>
-          <ThemeToggle />
-        </Box>
       </Toolbar>
     </AppBar>
   );

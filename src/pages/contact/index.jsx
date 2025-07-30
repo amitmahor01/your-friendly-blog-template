@@ -613,7 +613,7 @@ export default function Contact() {
             </Card>
           </Grid>
         </Grid>
-      </Container>
+    </Container>
     </Box>
   );
 } 

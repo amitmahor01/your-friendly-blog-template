@@ -801,7 +801,7 @@ export default function About() {
             </Grid>
           </Grid>
         </Grid>
-      </Container>
+    </Container>
     </Box>
   );
 } 

@@ -5,7 +5,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
-// Create a custom theme
+// Create a simple theme
 const theme = createTheme({
   palette: {
     primary: {
